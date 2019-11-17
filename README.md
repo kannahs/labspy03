@@ -22,8 +22,7 @@ C. Output print("data ke : ",i,"=",(a)) >> Mencetak hasil print("\nDone") >>Berf
 x = int() ## Memperkenalkan variable x sebagai integer, kemudian menginputkan nilainya y = 0 ## Memperkenalkan variable y dengan nilai 0 while x >= 0: ## Looping WHILE apabila nilai x tidak sama dengan 0 x = int(input("Masukkan Bilangan: ")) ## Program yang akan dilooping if x > y: ## If kondisi apabila nilai x lebih besar dari nilai y y = int(x) ## Nilai y sama dengan nilai x if x == 0: ## If kondisi apabila nilai x sama dengan 0 break ## Fungsi yang menghentikan operasi dibawahna jika suatu kondisi yang ditentukan telah tercapai print("\nAngka Terbesar Adalah ",y) ## Mencetak bilangan terbesar
 
 # Latihan 2
-# membuat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan dan
-  masukkan angka 0 untuk berhenti
+# membuat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan dan masukkan angka 0 untuk berhenti
 #algoritma & penjelasan
 - Memperkenalkan variabel x sebagai integer, kemudian menginputkan nilai nya
 - Memperkenalkan variabel y sebagai integer, dengan nilai 0                               
