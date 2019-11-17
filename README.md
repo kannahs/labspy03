@@ -23,7 +23,7 @@ x = int() ## Memperkenalkan variable x sebagai integer, kemudian menginputkan ni
 
 # Latihan 2
 # membuat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan dan masukkan angka 0 untuk berhenti
-#algoritma & penjelasan
+# algoritma & penjelasan
 - Memperkenalkan variabel x sebagai integer, kemudian menginputkan nilai nya
 - Memperkenalkan variabel y sebagai integer, dengan nilai 0                               
 - Looping while apabila nilai x tidak sama dengan 0
