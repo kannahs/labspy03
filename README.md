@@ -15,25 +15,28 @@ B. Process n = int(input("Masukan Nilai N: ")) >>merupakan fungsi untuk menghasi
 
 C. Output print("data ke : ",i,"=",(a)) >> Mencetak hasil print("\nDone") >>Berfungsi untuk mencetak teks "Done" yang bertanda bahwa program sudah berakhir
 
-Screanshoot input dan output
-input/output
+# Hasil eksekusi Latihan 1
+
+![latihan 1 1](https://user-images.githubusercontent.com/56243857/69010551-75d5a680-0993-11ea-9c17-86ec2cee9aba.PNG)
 
 x = int() ## Memperkenalkan variable x sebagai integer, kemudian menginputkan nilainya y = 0 ## Memperkenalkan variable y dengan nilai 0 while x >= 0: ## Looping WHILE apabila nilai x tidak sama dengan 0 x = int(input("Masukkan Bilangan: ")) ## Program yang akan dilooping if x > y: ## If kondisi apabila nilai x lebih besar dari nilai y y = int(x) ## Nilai y sama dengan nilai x if x == 0: ## If kondisi apabila nilai x sama dengan 0 break ## Fungsi yang menghentikan operasi dibawahna jika suatu kondisi yang ditentukan telah tercapai print("\nAngka Terbesar Adalah ",y) ## Mencetak bilangan terbesar
 
 # Latihan 2
 # membuat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan dan
-Masukkan angka 0 untuk berhenti
+  masukkan angka 0 untuk berhenti
 #algoritma & penjelasan
-Memperkenalkan variabel x sebagai integer, kemudian menginputkan nilai nya
-Memperkenalkan variabel y sebagai integer, dengan nilai 0                               
-Looping while apabila nilai x tidak sama dengan 0
-Program yang akan di looping
-If kondisi apabila nilai x lebih besar dari nilai y
-Nilai y sama dengan nilai x
-If kondisi apabila nilai x sama dengan 0
-(Break) fungsi yang menghentikan operasi dibawahnya jika suatu kondisi yang di tentukan telah tercapai
-Mencetak bilangan terbesar
+- Memperkenalkan variabel x sebagai integer, kemudian menginputkan nilai nya
+- Memperkenalkan variabel y sebagai integer, dengan nilai 0                               
+- Looping while apabila nilai x tidak sama dengan 0
+- Program yang akan di looping
+- If kondisi apabila nilai x lebih besar dari nilai y
+- Nilai y sama dengan nilai x
+- If kondisi apabila nilai x sama dengan 0
+- (Break) fungsi yang menghentikan operasi dibawahnya jika suatu kondisi yang di tentukan telah tercapai
+- Mencetak bilangan terbesar
 # Hasil eksekusi Latihan 2
+
+![latihan 2 1](https://user-images.githubusercontent.com/56243857/69010540-5b033200-0993-11ea-8dfb-9955b228e4b5.PNG)
 
 # Program 1
 Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal awal 100 juta, pada bulan pertama dan kedua belum mendapatkan laba, pada bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada bulan kelima, pendapatan meningkat 5%, selanjutnya pada bulan ke8 mengalami penurunan keuntungan sebesar 2%, sehingga laba menjadi 3%.
@@ -76,3 +79,5 @@ Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal a
     print("\nTotal Laba adalah: ",untung)
       >> Mencetak total laba
 # Hasil eksekusi Program 1
+
+![program 1 1](https://user-images.githubusercontent.com/56243857/69010578-a61d4500-0993-11ea-9784-b9585eb49831.PNG)
